@@ -1,6 +1,6 @@
 # todo
 
-## Project setup
+## Project setup | Configurando o Projeto
 ```
 npm install
 ```
